@@ -3,6 +3,7 @@
 We focus on studying exciting themes of CS. First of all, we are studying to make a personal interpreter. It is an awesome project.
 Thank you for visiting our organization. Have a nice one!
 
+You can check in progress project's log at a [link](https://github.com/Enjoy-CS/Crafting-Interpreters-Study/discussions/categories/logs).
 <!--
 
 **Here are some ideas to get you started:**
